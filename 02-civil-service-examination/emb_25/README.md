@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository documents the data cleaning, statistical analysis, and visualization of my personal performance in the EMBRAPA 2025 public service exam. It includes both individual-level and broader-group analysis.
+This repository documents the data cleaning, statistical analysis, and visualization of my personal performance in the EMB 2025 public service exam. It includes both individual-level and broader-group analysis.
 
 ## Repository Structure
 
@@ -31,6 +31,13 @@ This repository documents the data cleaning, statistical analysis, and visualiza
 - My final score placed me at position **52** among all candidates.
 - I was able to identify that I ranked above approximately **75.60%** of  classified candidates.
 - The visualization helped assess how competitive my performance was relative to others.
+
+Statistics for Final Grade:
+Mean: 46
+Median: 46.0
+Mode: 48
+Minimum: 30.0
+Maximum: 73.0
 
 ## Lessons Learned
 
