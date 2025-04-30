@@ -1,0 +1,223 @@
+10088331, Alexandre Diadorim Zerbini Brandao, 19.00, 29, 20.00, 25, 12.00, 21, 51.00 / 10350480, Alice
+Alves do Espirito Santo, 8.00, 23, 21.00, 25, 13.00, 19, 42.00 / 10150990, Alicia Lie de Melo, 15.00, 25,
+18.00, 22, 16.00, 21, 49.00 / 10406007, Aline Belmok de Araujo Dias, 19.00, 27, 25.00, 27, 25.00, 26, 69.00
+/ 10176644, Aline de Oliveira Albuquerque, 24.00, 32, 22.00, 26, 15.00, 22, 61.00 / 10057630, Aline
+Menegat de Araujo, 17.00, 24, 14.00, 19, 19.00, 22, 50.00 / 10400374, Aline Shimada da Cruz, 15.00, 27,
+16.00, 22, 15.00, 22, 46.00 / 10100965, Alison Pelri Albuquerque Menezes, 15.00, 27, 22.00, 24, 17.00,
+21, 54.00 / 10018807, Alisson Clementino da Silva, 20.00, 27, 15.00, 21, 18.00, 24, 53.00 / 10491778,
+Amanda Manuelly da Silva Oliveira, 10.00, 25, 8.00, 19, 12.00, 21, 30.00 / 10194224, Amanda Marra de
+Oliveira, 14.00, 22, 10.00, 18, 10.00, 18, 34.00 / 10046202, Amanda Miranda da Silva, 11.00, 22, 9.00, 17,
+15.00, 20, 35.00 / 10333722, Amanda Tabita da Silva Albanaz, 24.00, 32, 14.00, 22, 10.00, 20, 48.00 /
+10496731, Ana Beatriz Monteiro, 10.00, 25, 12.00, 21, 14.00, 22, 36.00 / 10433890, Ana Cristina Fazza,
+12.00, 26, 20.00, 25, 16.00, 23, 48.00 / 10115934, Ana Lidia Madeira de Sousa, 8.00, 24, 10.00, 19, 12.00,
+20, 30.00 / 10112202, Ana Luisa Andrade Oliveira, 17.00, 26, 22.00, 26, 9.00, 19, 48.00 / 10019942, Ana
+Paula Muche Schiavo, 16.00, 28, 24.00, 27, 18.00, 24, 58.00 / 10306314, Andressa Goncalves Rodrigues
+Fandhrs, 17.00, 28, 12.00, 18, 10.00, 17, 39.00 / 10348794, Andreza Henrique Vidal, 10.00, 25, 10.00, 20,
+18.00, 24, 38.00 / 10446621, Andreza Juliana Moreira da Costa, 19.00, 28, 11.00, 20, 9.00, 17, 39.00 /
+10108309, Andrielly Henriques dos Santos Costa, 18.00, 28, 15.00, 22, 11.00, 19, 44.00 / 10131517, Angela
+da Silva Machado, 11.00, 23, 15.00, 22, 16.00, 22, 42.00 / 10189973, Anna Victoria Silverio Righetto
+Mauad, 24.00, 32, 16.00, 23, 12.00, 21, 52.00 / 10455825, Antonia Simoni de Oliveira, 19.00, 27, 10.00,
+18, 13.00, 20, 42.00 / 10366565, Aratuza Valverde Sabatovicz, 16.00, 28, 7.00, 17, 12.00, 21, 35.00 /
+10317843, Ariadne de Almeida Branco Oliveira, 20.00, 26, 17.00, 23, 18.00, 20, 55.00 / 10042156, Ariany
+Rosa Goncalves, 12.00, 25, 17.00, 22, 14.00, 20, 43.00 / 10308615, Arthur Batista Silva, 18.00, 25, 24.00,
+25, 11.00, 16, 53.00 / 10148382, Barbara Simoes Santos Leal, 20.00, 28, 21.00, 24, 13.00, 19, 54.00 /
+10366934, Beatriz Freitas Melo, 16.00, 28, 16.00, 23, 10.00, 20, 42.00 / 10407548, Beatriz Panegassi de
+Souza, 19.00, 27, 17.00, 22, 12.00, 17, 48.00 / 10308351, Bianca Sagiorato, 8.00, 21, 18.00, 21, 13.00, 17,
+39.00 / 10359095, Bianca Simonassi Raso de Paiva, 23.00, 29, 16.00, 22, 13.00, 20, 52.00 / 10067244,
+Bruna Alves dos Santos Barbosa, 17.00, 27, 16.00, 22, 10.00, 20, 43.00 / 10423668, Bruno Cesar Lima e
+Silva, 18.00, 28, 15.00, 22, 14.00, 21, 47.00 / 10379135, Bruno Costa Evangelista de Souza, 18.00, 26,
+23.00, 25, 19.00, 22, 60.00 / 10177486, Bruno Koshin Vazquez Iha, 19.00, 29, 16.00, 23, 14.00, 22, 49.00
+/ 10149187, Bruno Milhomem Pilati Rodrigues, 21.00, 27, 21.00, 24, 17.00, 20, 59.00 / 10485273, Bruno
+Sergio de Oliveira Silva, 14.00, 27, 22.00, 26, 12.00, 21, 48.00 / 10423072, Bruno Stein Barbosa Menechino,
+14.00, 24, 12.00, 21, 12.00, 19, 38.00 / 10173712, Bruno William Fernandes Silva, 15.00, 21, 11.00, 17,
+15.00, 19, 41.00 / 10376507, Bryan Augusto da Rosa Tavares, 15.00, 26, 24.00, 25, 14.00, 20, 53.00 /
+10468953, Caibe Alves Pereira, 17.00, 24, 21.00, 24, 20.00, 22, 58.00 / 10092244, Caio de Sousa Santos,
+14.00, 23, 9.00, 16, 10.00, 15, 33.00 / 10446423, Carla Catarine Santos Rodrigues, 21.00, 24, 13.00, 17,
+10.00, 15, 44.00 / 10441603, Caroline Vanzzo Delai, 9.00, 23, 21.00, 25, 19.00, 23, 49.00 / 10001572,
+Cecilia de Azevedo Marques, 16.00, 28, 18.00, 24, 13.00, 21, 47.00 / 10364380, Cesar da Silva Santana
+Moura, 22.00, 29, 20.00, 24, 19.00, 22, 61.00 / 10130275, Christiane de Paula Ribeiro Silva Campos, 11.00,
+21, 23.00, 25, 14.00, 18, 48.00 / 10277752, Clesio Jose Purcina Junior, 14.00, 27, 6.00, 18, 12.00, 21, 32.00
+/ 10331683, Dafne de Oliveira Vianei, 12.00, 26, 26.00, 28, 12.00, 21, 50.00 / 10053566, Daniel David
+Noriega Vasquez, 26.00, 29, 22.00, 23, 20.00, 23, 68.00 / 10505555, Daniel Lacerda Oliveira, 23.00, 30,
+19.00, 24, 17.00, 22, 59.00 / 10161690, Daniele Cabral Michel, 10.00, 23, 14.00, 19, 12.00, 18, 36.00 /
+10214388, Danielle Oliveira da Fonseca, 12.00, 24, 11.00, 19, 14.00, 20, 37.00 / 10240807, Davi Alvarenga
+Lima, 13.00, 19, 15.00, 21, 15.00, 20, 43.00 / 10483093, Davi Coe Torres, 14.00, 26, 10.00, 19, 22.00, 26,
+46.00 / 10360848, Debora Linhares Lino de Souza, 22.00, 31, 16.00, 23, 10.00, 20, 48.00 / 10006353,
+Deborah Nascimento dos Santos Silva, 15.00, 27, 8.00, 19, 15.00, 21, 38.00 / 10386179, Diego Trindade
+de Souza, 19.00, 28, 17.00, 22, 11.00, 19, 47.00 / 10078122, Diogo Martins de Sa, 23.00, 29, 21.00, 24,
+18.00, 24, 62.00 / 10236735, Edgar Luis Waschburger, 22.00, 31, 20.00, 24, 20.00, 25, 62.00 / 10493694,
+Eduardo Ribeiro da Cunha, 18.00, 28, 9.00, 18, 11.00, 18, 38.00 / 10155499, Elenildo dos Santos Oliveira,
+16.00, 26, 19.00, 23, 16.00, 22, 51.00 / 10342182, Elverson Soares de Melo, 23.00, 30, 22.00, 23, 23.00,
+26, 68.00 / 10494428, Enio Saraiva Soares, 16.00, 26, 20.00, 24, 12.00, 19, 48.00 / 10116092, Eulalio
+Gutemberg Dias dos Santos, 16.00, 27, 10.00, 19, 15.00, 22, 41.00 / 10309555, Fabio Rodrigo de Freitas,
+10.00, 21, 19.00, 22, 20.00, 24, 49.00 / 10309051, Fabricio Edgar de Moraes, 10.00, 25, 20.00, 25, 18.00,
+24, 48.00 / 10225662, Felipe de Melo Marques Santana, 13.00, 26, 21.00, 25, 9.00, 18, 43.00 / 10160576,
+Felipe Gazetta Sacoda, 13.00, 22, 15.00, 21, 10.00, 18, 38.00 / 10247444, Fernanda Nunes Peron, 14.00,
+27, 16.00, 23, 14.00, 22, 44.00 / 10353302, Fernanda Schneberger dos Santos, 10.00, 23, 16.00, 22, 10.00,
+17, 36.00 / 10078109, Fernanda Stussi Duarte Lage, 9.00, 24, 14.00, 20, 9.00, 18, 32.00 / 10043040, Filipe
+de Abreu Vieira, 9.00, 17, 12.00, 17, 10.00, 15, 31.00 / 10430080, Flavia Aredes Rocha, 15.00, 26, 19.00,
+24, 13.00, 21, 47.00 / 10125656, Francielly Bruna Neto Francisco, 20.00, 29, 23.00, 25, 9.00, 18, 52.00 /
+10377658, Francisco Fabio Pereira de Souza, 16.00, 26, 10.00, 19, 11.00, 18, 37.00 / 10292114, Frederico
+Nanini Souza Sato, 16.00, 28, 12.00, 21, 16.00, 23, 44.00 / 10258959, Gabriel Caetano Martins Ribeiro da
+Silva, 10.00, 25, 16.00, 23, 14.00, 22, 40.00 / 10362447, Gabriel de Souza Segadaes, 16.00, 28, 18.00, 24,
+10.00, 20, 44.00 / 10230357, Gabriel dos Santos Amorim, 22.00, 30, 12.00, 21, 10.00, 19, 44.00 /
+10169373, Gabriel Quintanilha Peixoto, 22.00, 30, 16.00, 22, 16.00, 21, 54.00 / 10485488, Gabriel Victor
+Pina Rodrigues, 15.00, 26, 14.00, 20, 15.00, 22, 44.00 / 10352959, Gabriela Flavia Rodrigues Luiz, 18.00,
+26, 19.00, 22, 15.00, 20, 52.00 / 10392856, Gabriela Merker Breyer, 25.00, 29, 10.00, 16, 14.00, 18, 49.00
+/ 10033588, Geovani de Oliveira Ribeiro, 15.00, 25, 18.00, 22, 15.00, 21, 48.00 / 10423393, Getulio Pereira
+de Oliveira Junior, 8.00, 21, 20.00, 24, 11.00, 18, 39.00 / 10162335, Gianlucca de Urzeda Alves, 14.00, 27,
+14.00, 22, 15.00, 22, 43.00 / 10321551, Giovana de Castro Fiorini Maia, 17.00, 23, 17.00, 20, 12.00, 17,
+46.00 / 10280875, Giovanna Angeli Belo, 16.00, 27, 14.00, 22, 10.00, 19, 40.00 / 10378486, Grace Santos
+Tavares Avelar, 10.00, 25, 8.00, 19, 16.00, 23, 34.00 / 10160093, Guilherme Augusto Vignoli Campos dos
+Santos, 20.00, 29, 13.00, 20, 17.00, 21, 50.00 / 10343212, Guilherme Cordenonsi da Fonseca, 16.00, 28,
+20.00, 25, 16.00, 23, 52.00 / 10395989, Guilherme Henrique Bittencourt, 22.00, 30, 17.00, 20, 15.00, 22,
+54.00 / 10214550, Guilherme Henrique Moss Barreto Correa de Oliveira, 12.00, 25, 16.00, 22, 16.00, 22,
+44.00 / 10202061, Guilherme Luis de Oliveira Carvalho, 20.00, 26, 9.00, 18, 10.00, 18, 39.00 / 10424736,
+Guilherme Navarro Nilo Giusti, 18.00, 25, 17.00, 21, 20.00, 23, 55.00 / 10001811, Guilherme Souza Prado,
+24.00, 31, 27.00, 27, 22.00, 26, 73.00 / 10280200, Guilherme William da Silva, 13.00, 26, 19.00, 24, 14.00,
+21, 46.00 / 10085299, Gustavo Bortolanza de Andrade, 16.00, 28, 10.00, 20, 18.00, 24, 44.00 / 10412609,
+Gustavo Fernando Ferreira Goncalves, 16.00, 28, 18.00, 24, 14.00, 22, 48.00 / 10498367, Helena Augusto
+Gioppato, 22.00, 29, 15.00, 20, 10.00, 17, 47.00 / 10155163, Helena Ipe Pinheiro Guimaraes, 14.00, 26,
+22.00, 25, 11.00, 18, 47.00 / 10080141, Hendor Neves Ribeiro de Jesus, 15.00, 23, 18.00, 22, 19.00, 23,
+52.00 / 10252844, Herison Victor Lima Muniz, 22.00, 31, 12.00, 21, 16.00, 23, 50.00 / 10285669, Horacio
+Montenegro, 20.00, 30, 18.00, 24, 14.00, 22, 52.00 / 10486238, Hugo Carlos Bolzon Gonzalez, 13.00, 25,
+15.00, 21, 17.00, 23, 45.00 / 10267223, Icaro Santos Lopes, 13.00, 18, 13.00, 14, 16.00, 16, 42.00 /
+10166009, Igor Batista dos Santos Oliveira, 15.00, 23, 19.00, 21, 13.00, 17, 47.00 / 10278184, Igor de
+Barros Rigueira Fernandes, 17.00, 28, 15.00, 22, 16.00, 23, 48.00 / 10347800, Inaia Ramos Aguiar, 13.00,
+23, 13.00, 19, 10.00, 15, 36.00 / 10435422, Isabel Cristina Cunha Ferreira, 18.00, 26, 17.00, 21, 11.00, 17,
+46.00 / 10354347, Isadora Cosenza Vieira da Silva, 14.00, 26, 14.00, 21, 20.00, 24, 48.00 / 10503696, Itallo
+Teixeira Galvao, 18.00, 25, 17.00, 21, 16.00, 19, 51.00 / 10112305, Italo Sudre Pereira, 12.00, 20, 17.00,
+21, 15.00, 17, 44.00 / 10456842, Iuri Batista da Silva, 16.00, 20, 15.00, 16, 15.00, 16, 46.00 / 10030374,
+Ivens Balduino dos Santos Carneiro, 20.00, 28, 14.00, 22, 10.00, 20, 44.00 / 10045556, Jaire Alves Ferreira
+Filho, 16.00, 27, 21.00, 24, 12.00, 20, 49.00 / 10184891, Jasciane da Silva Alves, 22.00, 31, 17.00, 23, 12.00,
+21, 51.00 / 10393359, Jean Carlo Pedroso de Oliveira, 15.00, 27, 16.00, 22, 11.00, 19, 42.00 / 10447345,
+Jeniffer Natalia Teles, 14.00, 25, 14.00, 20, 11.00, 18, 39.00 / 10298588, Jessica Bodart Guimaraes, 10.00,
+24, 10.00, 20, 14.00, 22, 34.00 / 10140665, Jessica Carrijo Souza, 12.00, 21, 17.00, 21, 9.00, 16, 38.00 /
+10311245, Jessica Ligia Picanco Machado, 14.00, 27, 18.00, 24, 16.00, 23, 48.00 / 10268681, Jessica
+Manoelli Costa da Silva, 16.00, 28, 6.00, 18, 10.00, 20, 32.00 / 10152547, Jessyka Lima Santos, 12.00, 16,
+9.00, 10, 10.00, 11, 31.00 / 10305127, Jhon Eric Alves Fernandes, 16.00, 27, 16.00, 23, 12.00, 20, 44.00 /
+10317056, Joao Abner Souza Lima, 12.00, 26, 24.00, 27, 14.00, 21, 50.00 / 10192725, Joao Matheus
+Fonteles Silva, 10.00, 25, 16.00, 23, 10.00, 20, 36.00 / 10384729, Joao Pedro do Carmo Filgueiras, 19.00,
+25, 18.00, 21, 15.00, 19, 52.00 / 10355592, Joel Nunes Leite Junior, 8.00, 21, 22.00, 26, 17.00, 22, 47.00 /
+10225885, Johann da Silva Soretz, 13.00, 26, 13.00, 21, 14.00, 21, 40.00 / 10056143, Jonatas Chagas de
+Oliveira, 13.00, 23, 16.00, 21, 10.00, 16, 39.00 / 10252812, Jose Cleves da Silva Maia, 10.00, 25, 22.00, 26,
+12.00, 21, 44.00 / 10073956, Jose Wilson Rosa Junior, 16.00, 28, 16.00, 23, 14.00, 22, 46.00 / 10000377,
+Josue Filipe de Oliveira Moraes Miranda, 11.00, 24, 17.00, 22, 9.00, 16, 37.00 / 10148872, Julia Mayrink
+Ferreira Alves, 26.00, 33, 24.00, 24, 11.00, 15, 61.00 / 10432097, Julia Raspante Martins, 12.00, 26, 8.00,
+19, 24.00, 27, 44.00 / 10347139, Julia Zappelini, 16.00, 28, 22.00, 26, 10.00, 20, 48.00 / 10395233, Juliana
+Afonso, 16.00, 25, 9.00, 19, 11.00, 20, 36.00 / 10190454, Juliana da Rosa, 14.00, 23, 12.00, 19, 11.00, 18,
+37.00 / 10033197, Juliana Edelvacy Lima Pinto, 20.00, 29, 16.00, 22, 10.00, 19, 46.00 / 10378024, Juliana
+Rayssa Barros Felix, 22.00, 28, 16.00, 23, 14.00, 21, 52.00 / 10339777, Julio Henrique Ferreira de Sa
+Queiroz, 14.00, 26, 10.00, 19, 17.00, 23, 41.00 / 10312051, Junior Olimpio Martins, 19.00, 22, 20.00, 23,
+15.00, 18, 54.00 / 10332199, Kandarpa Silva Galas, 16.00, 25, 19.00, 22, 17.00, 22, 52.00 / 10016226,
+Karen Letycia Rodrigues de Paiva, 15.00, 23, 10.00, 17, 15.00, 18, 40.00 / 10427306, Karine Thiers Leitao
+Lima, 24.00, 32, 17.00, 23, 15.00, 22, 56.00 / 10218681, Kelly Barreto Rodrigues, 13.00, 26, 12.00, 19,
+16.00, 21, 41.00 / 10047531, Kelvyn Magalhaes Lopes Rocha, 14.00, 19, 16.00, 19, 13.00, 17, 43.00 /
+10120741, Kenia de Oliveira Vasconcelos, 18.00, 23, 22.00, 24, 9.00, 15, 49.00 / 10279155, Laila Viana de
+Almeida, 17.00, 26, 16.00, 21, 17.00, 22, 50.00 / 10201321, Lais Nobrega Rodrigues, 23.00, 30, 17.00, 21,
+13.00, 18, 53.00 / 10077637, Lara Louredo Leal, 18.00, 29, 25.00, 27, 14.00, 21, 57.00 / 10445589, Larissa
+Batista dos Santos, 16.00, 28, 8.00, 19, 10.00, 20, 34.00 / 10381521, Larissa Gabriela Morais de Avila,
+15.00, 21, 20.00, 21, 13.00, 18, 48.00 / 10155411, Larissa Pereira Goncalves, 16.00, 25, 17.00, 23, 14.00,
+20, 47.00 / 10319682, Larissa Resende Carvalho, 8.00, 24, 20.00, 25, 18.00, 24, 46.00 / 10045147, Lavinia
+Inacia Mota, 27.00, 31, 15.00, 20, 14.00, 18, 56.00 / 10380486, Layanne Sthefany de Andrade Araujo,
+11.00, 22, 19.00, 23, 15.00, 20, 45.00 / 10450974, Leonardo Assis da Silva, 10.00, 25, 13.00, 21, 9.00, 19,
+32.00 / 10384593, Leslie Ecker Ferreira, 8.00, 22, 9.00, 18, 15.00, 22, 32.00 / 10306258, Leticia Ferreira
+Lima, 12.00, 26, 6.00, 18, 16.00, 23, 34.00 / 10488156, Leticia Maria Parteka, 10.00, 24, 11.00, 19, 13.00,
+20, 34.00 / 10320945, Leticia Stock Vieira, 23.00, 29, 14.00, 17, 18.00, 19, 55.00 / 10177634, Lidia Cardoso
+Francisco, 24.00, 31, 9.00, 19, 18.00, 24, 51.00 / 10052703, Ligia Carolina da Silva Prado, 13.00, 24, 18.00,
+23, 17.00, 22, 48.00 / 10273683, Lilian Cris Dallagnol, 14.00, 27, 13.00, 20, 9.00, 19, 36.00 / 10068294,
+Livia Oliveira Dantas Clementino, 28.00, 34, 20.00, 25, 12.00, 21, 60.00 / 10173941, Lorena Freitas Souza
+Tavares da Costa, 10.00, 21, 6.00, 15, 16.00, 20, 32.00 / 10347594, Lorenco Torres Mendonca, 13.00, 19,
+14.00, 18, 13.00, 19, 40.00 / 10074791, Lourenco Vitor Silva Ferreira, 14.00, 27, 18.00, 24, 14.00, 22, 46.00
+/ 10304530, Luana Lima Guimaraes Alencar, 14.00, 27, 6.00, 18, 12.00, 21, 32.00 / 10130490, Luana Lucas
+Dutra, 24.00, 32, 22.00, 26, 11.00, 19, 57.00 / 10179102, Lucas Felipe Almeida Athayde, 16.00, 28, 20.00,
+25, 20.00, 25, 56.00 / 10311413, Lucas Gabriel Rodrigues Gomes, 18.00, 29, 15.00, 21, 13.00, 20, 46.00 /
+10465062, Lucas Gontijo Silva Maia, 14.00, 27, 17.00, 22, 11.00, 19, 42.00 / 10270955, Lucas Martins de
+Freitas Arruda, 18.00, 27, 22.00, 26, 12.00, 21, 52.00 / 10426472, Lucas Reis Guimaraes de Oliveira, 18.00,
+28, 11.00, 20, 9.00, 19, 38.00 / 10193769, Lucas Yago Melo Ferreira, 12.00, 22, 9.00, 15, 14.00, 18, 35.00
+/ 10141621, Luciana da Silva Santos, 18.00, 29, 10.00, 20, 14.00, 22, 42.00 / 10112232, Lucyana Keity
+Santana Silva, 12.00, 16, 13.00, 18, 9.00, 16, 34.00 / 10130434, Luis Felipe Medeiros Romera, 14.00, 25,
+20.00, 24, 14.00, 21, 48.00 / 10176697, Luis Janssen, 9.00, 20, 25.00, 26, 22.00, 24, 56.00 / 10046311,
+Luisa de Miranda Basto Silva, 14.00, 26, 18.00, 22, 12.00, 20, 44.00 / 10243722, Luisa Mayumi Arake de
+Tacca, 20.00, 30, 17.00, 22, 20.00, 24, 57.00 / 10056657, Luiz Felipe de Cassio Faustino, 19.00, 27, 12.00,
+20, 14.00, 22, 45.00 / 10181851, Luiz Gabriel Souza Mencucini, 12.00, 20, 22.00, 23, 17.00, 22, 51.00 /
+10053586, Luiza Cesca Piva, 25.00, 32, 25.00, 26, 20.00, 23, 70.00 / 10470445, Luzia Gabrielle Zeferino de
+Castro, 13.00, 23, 18.00, 21, 17.00, 22, 48.00 / 10232837, Manuel Adrian Riveros Escalona, 24.00, 32,
+20.00, 25, 10.00, 20, 54.00 / 10083397, Marcelo Araujo Silva, 16.00, 27, 20.00, 22, 16.00, 18, 52.00 /
+10327218, Marcelo de Almeida Presotto, 16.00, 24, 12.00, 18, 9.00, 16, 37.00 / 10134164, Marciano Regis
+Rubini, 14.00, 26, 17.00, 22, 9.00, 18, 40.00 / 10450320, Marcos Paulo Vicari Souza, 8.00, 24, 18.00, 24,
+16.00, 23, 42.00 / 10178793, Marcus Vinicius Canario Viana, 9.00, 24, 22.00, 26, 18.00, 24, 49.00 /
+10107034, Maria Beatriz de Oliveira Rabelo, 16.00, 27, 13.00, 21, 10.00, 20, 39.00 / 10362344, Maria
+Borges Rabelo de Santana, 24.00, 31, 6.00, 17, 12.00, 19, 42.00 / 10253967, Maria Clara Esteves
+Monachesi, 16.00, 28, 14.00, 22, 14.00, 22, 44.00 / 10158325, Maria do Socorro Melo Rodrigues, 18.00,
+29, 10.00, 20, 12.00, 21, 40.00 / 10066906, Maria Fernanda Ribeiro Dias, 9.00, 21, 15.00, 20, 15.00, 18,
+39.00 / 10358642, Maria Fernanda Vogado de Mesquita, 19.00, 28, 20.00, 22, 14.00, 18, 53.00 / 10106046,
+Maria Gabriela Cunha Guimaraes, 11.00, 24, 15.00, 21, 13.00, 19, 39.00 / 10370890, Mariana Andrade
+Duarte, 16.00, 28, 18.00, 24, 16.00, 23, 50.00 / 10058260, Mariana Bessa de Queiroz, 17.00, 25, 12.00, 17,
+10.00, 14, 39.00 / 10412271, Mariana Costa Dias, 22.00, 30, 14.00, 19, 23.00, 24, 59.00 / 10038253,
+Mariana Gouveia de Queiroz, 24.00, 30, 23.00, 25, 15.00, 19, 62.00 / 10088056, Mariane Possignolo
+Gomes, 18.00, 29, 16.00, 23, 16.00, 23, 50.00 / 10064418, Marina Cristina Soares Esteves, 16.00, 25, 6.00,
+14, 12.00, 21, 34.00 / 10101533, Marina Oliveira Sudario, 19.00, 27, 15.00, 20, 20.00, 24, 54.00 /
+10271793, Marx Oliveira de Lima, 19.00, 24, 18.00, 20, 13.00, 17, 50.00 / 10359820, Mateus Florentino
+Barbosa, 8.00, 24, 13.00, 20, 9.00, 17, 30.00 / 10445046, Matheus Augusto Calvano Cosentino, 14.00, 27,
+28.00, 29, 20.00, 25, 62.00 / 10205033, Matheus Carlos Valinhas, 22.00, 31, 22.00, 26, 18.00, 24, 62.00 /
+10415124, Matheus Malagrino Lisboa, 21.00, 28, 16.00, 22, 9.00, 17, 46.00 / 10188029, Mauricio Lopes
+Casagrande, 22.00, 30, 19.00, 24, 13.00, 20, 54.00 / 10172868, Mauro de Medeiros Oliveira, 15.00, 26,
+23.00, 25, 12.00, 18, 50.00 / 10507381, Michelle Guitton Cotta, 18.00, 27, 13.00, 21, 14.00, 22, 45.00 /
+10171127, Michelle Orane Schemberger, 10.00, 21, 19.00, 23, 11.00, 16, 40.00 / 10356063, Miguel
+Edmundo Romanizio, 16.00, 27, 19.00, 22, 11.00, 19, 46.00 / 10228012, Milena Godoi Lima, 15.00, 26,
+17.00, 23, 12.00, 20, 44.00 / 10130128, Natanael Borges de Avila, 24.00, 32, 20.00, 25, 16.00, 23, 60.00 /
+10358087, Natanael Tavares de Oliveira, 10.00, 25, 10.00, 20, 16.00, 23, 36.00 / 10329942, Natasha Araujo
+Tavares, 14.00, 22, 12.00, 19, 9.00, 15, 35.00 / 10366691, Newton de Medeiros Vidal, 14.00, 21, 14.00,
+18, 19.00, 22, 47.00 / 10341470, Nicole Orsi, 26.00, 31, 9.00, 18, 16.00, 23, 51.00 / 10087409, Nilton
+Araripe dos Santos Neto, 13.00, 24, 8.00, 17, 10.00, 17, 31.00 / 10148583, Nureyev Ferreira Rodrigues,
+24.00, 30, 20.00, 24, 17.00, 23, 61.00 / 10164253, Otavio Henrique Bezerra Pinto, 20.00, 30, 21.00, 25,
+16.00, 23, 57.00 / 10114680, Patricia Verdugo Pascoal, 13.00, 22, 8.00, 13, 20.00, 22, 41.00 / 10406060,
+Paula Luize Camargos Fonseca, 17.00, 25, 11.00, 18, 18.00, 22, 46.00 / 10289923, Paulo Ricardo Alves
+Bomfim Vieira, 15.00, 24, 14.00, 21, 9.00, 19, 38.00 / 10043075, Paulo Sousa Lima Junior, 16.00, 27, 18.00,
+23, 12.00, 20, 46.00 / 10352453, Pedro Batista Marconi, 12.00, 26, 14.00, 22, 14.00, 22, 40.00 / 10265602,
+Pedro Henrique de Faria Peres, 12.00, 19, 16.00, 20, 18.00, 19, 46.00 / 10411576, Pedro Henrique Mello
+Magalhaes, 32.00, 36, 24.00, 27, 9.00, 19, 65.00 / 10205044, Pedro Leonardo Carvalho de Lima, 11.00, 25,
+16.00, 23, 11.00, 18, 38.00 / 10475109, Pedro Mariano Martins, 26.00, 33, 26.00, 28, 18.00, 24, 70.00 /
+10133157, Pedro Ricardo Rossi Marques Barreiros, 17.00, 25, 19.00, 23, 23.00, 25, 59.00 / 10198723,
+Pedro Savary Figueiro, 23.00, 26, 21.00, 23, 13.00, 16, 57.00 / 10508812, Potiara Paula de Paiva Modesto,
+18.00, 26, 9.00, 17, 10.00, 18, 37.00 / 10300692, Priscila Alves Lima, 12.00, 26, 8.00, 18, 12.00, 19, 32.00
+/ 10235089, Rafael Berton Correia Ramos, 20.00, 28, 10.00, 17, 14.00, 19, 44.00 / 10120368, Rafael
+Botelho Rangel, 23.00, 28, 25.00, 25, 18.00, 21, 66.00 / 10144399, Rafael Rodrigues Ferrari, 26.00, 33,
+26.00, 28, 20.00, 25, 72.00 / 10076602, Raire dos Santos Cavalcante, 11.00, 23, 10.00, 17, 10.00, 14, 31.00
+/ 10212831, Rayssa Almeida Garcia, 18.00, 27, 16.00, 23, 11.00, 20, 45.00 / 10234764, Rebecca Oliveira
+de Carvalho, 21.00, 29, 6.00, 16, 10.00, 19, 37.00 / 10012826, Renan Oliveira de Sousa Leite, 17.00, 24,
+15.00, 20, 9.00, 16, 41.00 / 10409829, Renan Rodrigues Rocha, 19.00, 26, 19.00, 22, 21.00, 22, 59.00 /
+10043141, Renan Victor Brito Aguiar Parente, 14.00, 24, 12.00, 20, 10.00, 18, 36.00 / 10369164, Renata
+Rezende Carvalho, 12.00, 23, 16.00, 22, 12.00, 18, 40.00 / 10230162, Ricardo Nodari Froes de Castro,
+12.00, 26, 16.00, 21, 10.00, 16, 38.00 / 10492584, Roberto Jacome Rios, 10.00, 25, 14.00, 22, 12.00, 21,
+36.00 / 10270898, Rodrigo Theodoro Rocha, 11.00, 24, 14.00, 18, 20.00, 24, 45.00 / 10362081, Romulo
+Previato da Silva, 16.00, 26, 22.00, 25, 17.00, 23, 55.00 / 10105930, Ronald Matheus da Silva Mourao,
+12.00, 23, 18.00, 21, 13.00, 21, 43.00 / 10309911, Ronnie Freire Marques de Sousa, 16.00, 28, 20.00, 25,
+10.00, 20, 46.00 / 10350433, Ryan Fernandes Vieira de Souza, 14.00, 26, 13.00, 21, 11.00, 19, 38.00 /
+10351523, Samuel de Carva Silva, 12.00, 25, 15.00, 21, 19.00, 24, 46.00 / 10158855, Sandro Patroca da
+Silva, 16.00, 24, 15.00, 20, 10.00, 17, 41.00 / 10485027, Saymon Gazolla Reis da Silva, 11.00, 24, 12.00,
+20, 12.00, 18, 35.00 / 10003933, Sergio Amorim de Alencar, 24.00, 32, 12.00, 21, 14.00, 22, 50.00 /
+10200190, Sergio Mascarenhas Morgado, 17.00, 27, 17.00, 20, 17.00, 21, 51.00 / 10471781, Stela Mirla
+da Silva Felipe, 12.00, 24, 19.00, 23, 12.00, 19, 43.00 / 10242568, Suelen Carneiro de Medeiros, 15.00, 24,
+21.00, 23, 11.00, 18, 47.00 / 10270644, Talita Pijus Ponce dos Santos, 16.00, 28, 10.00, 20, 16.00, 23, 42.00
+/ 10348815, Tassia Oliveira Biazon, 12.00, 21, 15.00, 21, 11.00, 18, 38.00 / 10500839, Tatiane Martins da
+Silva, 14.00, 27, 12.00, 21, 10.00, 20, 36.00 / 10444285, Tayna da Silva Fiuza, 17.00, 25, 18.00, 23, 12.00,
+20, 47.00 / 10185357, Tayna Diniz Frederico, 9.00, 23, 13.00, 20, 12.00, 20, 34.00 / 10344753, Thalliton
+Luiz Carvalho da Silva, 28.00, 34, 8.00, 19, 12.00, 21, 48.00 / 10108773, Themistocles da Silva Negreiros
+Neto, 14.00, 26, 15.00, 21, 16.00, 21, 45.00 / 10149269, Thiago Mendonca dos Santos, 19.00, 28, 22.00,
+24, 21.00, 25, 62.00 / 10149573, Thiago Wilson Rodrigues da Costa, 16.00, 21, 12.00, 15, 12.00, 14, 40.00
+/ 10341277, Tiago da Silva Ribeiro, 22.00, 31, 12.00, 21, 16.00, 23, 50.00 / 10225038, Tiago Luiz Vieira
+Silva, 15.00, 24, 21.00, 21, 15.00, 17, 51.00 / 10291644, Vagner Katsumi Okura, 10.00, 24, 10.00, 18, 15.00,
+21, 35.00 / 10212050, Vanessa Cristina da Silva Araujo, 11.00, 24, 11.00, 19, 13.00, 18, 35.00 / 10163810,
+Veronica Lucas Sequeira da Silva, 15.00, 27, 23.00, 25, 10.00, 18, 48.00 / 10369045, Vinicius Castro Santos,
+17.00, 26, 21.00, 24, 15.00, 21, 53.00 / 10077446, Vinicius Delgado da Rocha, 10.00, 25, 15.00, 22, 12.00,
+18, 37.00 / 10411112, Vinicius Mandolesi Rios, 22.00, 31, 20.00, 25, 18.00, 24, 60.00 / 10013650, Vinicius
+Sousa Flores, 12.00, 20, 19.00, 22, 18.00, 21, 49.00 / 10395214, Vitor Emanuel Bohrer de Oliveira, 18.00,
+29, 24.00, 27, 10.00, 19, 52.00 / 10327358, Vitoria Horvath Miranda, 23.00, 29, 22.00, 25, 19.00, 21, 64.00
+/ 10451939, Vitoria Mercon Dias, 18.00, 28, 17.00, 23, 9.00, 18, 44.00 / 10004325, Vitoria Ribeiro da Silva
+Ramos, 18.00, 28, 13.00, 21, 10.00, 20, 41.00 / 10200372, Wanessa Moreira Goes, 16.00, 28, 12.00, 21,
+14.00, 22, 42.00 / 10019065, Welton Aurelio Oliveira de Anhaia, 16.00, 24, 20.00, 24, 16.00, 19, 52.00 /
+10141210, William Bartolomeu de Medeiros, 18.00, 27, 20.00, 24, 13.00, 19, 51.00 / 10200846, Willian
+Follmann Konrad, 18.00, 27, 18.00, 23, 10.00, 17, 46.00 / 10241691, Yara Martins da Silva, 14.00, 24, 9.00,
+19, 12.00, 18, 35.00
