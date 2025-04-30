@@ -1,21 +1,38 @@
-# 🌱 Machine Learning Studies
+# Data Science and Machine Learning Studies
 
-Welcome to my personal repository for learning and experimenting with **machine learning**.
+This repository contains personal study materials, projects, and experiments related to data analysis, statistics, modeling, machine learning, and artificial intelligence.
 
-Here, you'll find notebooks, scripts, and notes from my journey into the intersection of biology, computation, and other variate uses of data analysis. I'm a biological sciences undergraduate at Federal University of Bahia (UFBA), researching microbial ecology with a deep curiosity for how machine learning can help unravel hidden patterns in genomic data and ecological networks.
+## Purpose
 
-The cool playlist I listen to study: [study music that is actually motivating](https://open.spotify.com/playlist/6dEdaN9tg6S5x4v698ARfb?si=938efed7e7244662)
-## 📚 Courses
+The goal of this repository is to organize and track my learning progress in the fields of data science and AI. It includes practical examples, notes, and project-based learning to strengthen both theoretical and applied understanding.
 
-The coursing I'm taking is *Machine Learning A-Z: AI, Python & R*
-## 📂 Repository Structure
+## Topics Covered
 
-```bash
-machine-learning/
-│
-├── 📁 notebooks/         # Jupyter & Colab notebooks from tutorials and experiments
-├── 📁 projects/          # Mini-projects applying ML to real data
-├── 📁 results/           # The results of my studies (figures and tables)
-├── 📁 utils/             # Helper functions and tools
-├── ml-studies-env.yaml    # Conda environment dependencies
-└── README.md             # You are here
+- **Descriptive and Inferential Statistics**
+- **Data Cleaning and Preprocessing**
+- **Exploratory Data Analysis (EDA)**
+- **Probability and Distributions**
+- **Hypothesis Testing**
+- **Linear and Non-linear Regression**
+- **Classification and Clustering**
+- **Time Series Analysis**
+- **Dimensionality Reduction**
+- **Supervised and Unsupervised Learning**
+- **Deep Learning Fundamentals**
+- **Model Evaluation and Tuning**
+
+## Structure
+
+The repository is organized into folders by topic or project. Each folder may contain:
+- Python or R scripts (`.py`, `.R`, or notebooks)
+- Markdown summaries and notes
+- Datasets used for practice
+- Visualizations and plots
+
+## Tools and Libraries
+
+Some of the main tools and libraries used throughout the repository include:
+- **Python**: pandas, numpy, matplotlib, seaborn, scikit-learn, tensorflow, keras
+- **R**: tidyverse, ggplot2, caret, forecast
+- **Jupyter Notebooks** and **RMarkdown** for documentation and reproducibility
+
